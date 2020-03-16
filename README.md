@@ -20,3 +20,5 @@ Look at the wiki for more information about model and more
 Example figure (succesfull fitting + extrapolation):
 
 ![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
+
+![Italy animated map until 150320](Italy_animated_map.gif)
