@@ -17,6 +17,6 @@ The code for the model function you see directly here.
 
 Look at the wiki for more information about model and more
 
-Example figure Success:
+Example figure (succesfull fitting):
 
 ![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
