@@ -19,4 +19,4 @@ Look at the wiki for more information about model and more
 
 Example figure Success:
 
-![Bergamo fitting results](/images/logo.png)
+![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
