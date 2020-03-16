@@ -16,3 +16,7 @@ The code for the model function you see directly here.
 
 
 Look at the wiki for more information about model and more
+
+Example figure Success:
+
+![Bergamo fitting results](/images/logo.png)
