@@ -1,10 +1,12 @@
-# COVID-19-italy-analysis-results
+# COVID-19-regional-data-analysis-SIR
 
 #Intro
 
-Data Analysis results based on Italian officials Corona province based data.
+Data Analysis results with ODE and alike model fitting based on as local as possible data (best data is Italian officials province based data).
 
-Mostly ODE based modelling and parameter fitting, but also other results
+Mostly ODE based modelling and parameter fitting, but also other local results
+
+I changed the name of the repo because it made sense.
 
 The question I currently have is how big is R0 typically, because that is somehow unclear to everybody.
 However, the italian dataset in some case fits so nicely with a SIR model including all data that you can hardly ignore that
