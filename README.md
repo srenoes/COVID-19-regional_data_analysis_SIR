@@ -6,9 +6,18 @@ Data Analysis results with model fitting based on as local as possible data (bes
 
 Mostly ODE based modelling and parameter fitting, but also other local results
 
-Example figure (succesfull fitting + extrapolation):
+Example figure (succesfull fitting + extrapolation): Version 1503
 
-![Bergamo fitting results](SIR_fitresults/15032020/Italy_SIR_fit_000_Bergamo.png)
+![Bergamo fitting results_1503](SIR_fitresults/15032020/Italy_SIR_fit_000_Bergamo.png)
+
+
+This now unfortunately looks completely different with data from 1603
+
+![Bergamo fitting results_1603](SIR_fitresults/16032020/Italy_SIR_fit_000_Bergamo.png)
+
+
+
+
 
 And some figure I created with geopandas:
 
