@@ -2,7 +2,7 @@
 
 #Intro
 
-Data Analysis results with ODE and alike model fitting based on as local as possible data (best data is Italian officials province based data).
+Data Analysis results with model fitting based on as local as possible data (best data is Italian officials province based data).
 
 Mostly ODE based modelling and parameter fitting, but also other local results
 
