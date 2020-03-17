@@ -8,7 +8,7 @@ Mostly ODE based modelling and parameter fitting, but also other local results
 
 Example figure (succesfull fitting + extrapolation):
 
-![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
+![Bergamo fitting results](SIR_fitresults/15032020/Italy_SIR_fit_000_Bergamo.png)
 
 And some figure I created with geopandas:
 
