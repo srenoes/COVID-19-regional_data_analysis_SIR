@@ -6,6 +6,15 @@ Data Analysis results with model fitting based on as local as possible data (bes
 
 Mostly ODE based modelling and parameter fitting, but also other local results
 
+Example figure (succesfull fitting + extrapolation):
+
+![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
+
+And some figure I created with geopandas:
+
+![Italy animated map until 150320](Italy_animated_map.gif)
+
+
 I changed the name of the repo because it made sense.
 
 The question I currently have is how big is R0 typically, because that is somehow unclear to everybody.
@@ -48,15 +57,5 @@ The code for the model function you see directly above.
 
 Look at the wiki for more information about model and more
 
-Example figure (succesfull fitting + extrapolation):
 
-![Bergamo fitting results](SIR_fitresults/Italy_SIR_fit_000_Bergamo.png)
-
-And some figure I created with geopandas:
-
-![Italy animated map until 150320](Italy_animated_map.gif)
-
-Plus some info on the fitted Basic reproduction number R0=beta/gamma (only succesfull fits):
-
-![Histogram of basic reproduction number](soon)
 
