@@ -5,23 +5,17 @@
 This is a model page that tries to find out questions about the near future states of COVID 19 on the basis of regional data.
 Simulation data is used to answer that question. Even though the mathematical model looks very complicated the stuff behind it is very easy to understand. This SIR model is about people that can still get infected(S), people that are infected (I), and those that are removed(R), or those who got it and recovered (lets hope) or are dead.
 
-Key aspect in this model and in other related models is a number called basic reproductive number or R0. And that number represents the number of people that are infected on average by one infected person. Math with this number is fairly easy to understand. An R0 of 2 will give 2,*2=4,*2=8,*2=16,*2=32 infected persons each time it is transmitted. And and R0 of 1 will give 1,=1*1,=1*1,=1*1,=1*1. And R0 of 1 will thus not increase the number of infected, and for R0<1 it goes down e.g. R0=1/2 --> 1/2,!/4,!/8,1/16  aso. The trick that now everybody is hoping for is to get this number as low as possible, if at all possible below 1.
+Key aspect in this model and in other related models is a number called basic reproductive number or R0. And that number represents the number of people that are infected on average by one infected person. Math with this number is fairly easy to understand. An R0 of 2 will give 2,*2=4,*2=8,*2=16,*2=32 infected persons each time it is transmitted. And and R0 of 1 will give 1,=1*1,=1*1,=1*1,=1*1. And R0 of 1 will thus not increase the number of infected, and for R0<1 it goes down e.g. R0=1/2 --> 1/2,!/4,!/8,1/16  aso. The trick that now everybody is hoping for is to get this number as low as possible, if by any means possible then clearly below 1. Also the number of peak infected persons will be much lower with an R0 close to 1. For an R0 of 2 I think it was 4-5% who have it at the same time, or scarily you could count until 20 and  you meet somebody who is infected.
+Now as it looks like for Bergamo those numbers are still very low, compared to the scary 5%. And we dont want to go there believe me. Thus stay at home if possible. It shouldnt be difficult to get R0 down to half I would think but if R0 is 2 or 1 makes actually a huge difference. Eazy again to understand what it means 2x2x2x2x2x2x2x2x2 oe 1x1x1x1x1x1x1 not to talk about 3 or 4 as it is typical for the start. See more numbers here: https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html
 
 Aditionally, and about that nobody is talking about, a reduced R0, if close enough to 1 will also significantly reduce the amount of people that will get it. So its not only about that the peak is spread out, nope. It is ALSO TINY COMPARED TO the peak you get when R0 is 2 for example. Continue to look at the pictures and read the text describing picture 3.
-
-#Technical description
-
-
-Data Analysis results with model fitting based on as local as possible data (best data is Italian officials province based data).
-
-Mostly ODE based modelling and parameter fitting, but also other local results
 
 Example figure (succesfull fitting + extrapolation): Version 1503
 
 ![Bergamo fitting results_1503](SIR_fitresults/15032020/Italy_SIR_fit_000_Bergamo.png)
 
 
-This now unfortunately looks completely different with data from 1603
+This now unfortunately looks completely different with data from 1603T
 
 ![Bergamo fitting results_1603](SIR_fitresults/16032020/Italy_SIR_fit_000_Bergamo.png)
 
@@ -35,6 +29,19 @@ As you can see only 1%-2% of the total population would  be infected, and the in
 And some figure I created with geopandas showing the wave that went down italy from north to south:
 
 ![Italy animated map until 150320](Italy_animated_map.gif)
+
+
+#Technical description
+
+
+Data Analysis results with model fitting based on as local as possible data (best data is Italian officials province based data).
+
+Mostly ODE based modelling and parameter fitting, but also other local results
+
+
+
+
+
 
 
 I changed the name of the repo because it made sense.
