@@ -15,7 +15,9 @@ This now unfortunately looks completely different with data from 1603
 
 ![Bergamo fitting results_1603](SIR_fitresults/16032020/Italy_SIR_fit_000_Bergamo.png)
 
-
+And now it starts to look different again. However, now only last 7 days' data are fitted (19.03.2020). Lets hope this is true.
+Fingers crossed
+![Bergamo fitting results_1903](SIR_fitresults/19032020/Italy_SIR_fit_000_Bergamo.png)
 
 
 
