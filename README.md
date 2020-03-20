@@ -16,6 +16,10 @@ Now as it looks like for Bergamo those numbers are still very low, compared to t
 
 Aditionally, and about that nobody is talking about, a reduced R0, if close enough to 1 will also significantly reduce the amount of people that will get it. So its not only about that the peak is spread out, nope. It is ALSO TINY COMPARED TO the peak you get when R0 is 2 for example. Continue to look at the pictures. And think about R0 and what is means because it is so easy
 
+Another thing is that obviously at some stage the people that can get infected will run out. Meaning then it will not be possible to infect more people than 1 on average. But of course this will only be the case when a lot of people will have got it already. And then we are in scary numbers again. For R0 close to 1 this happens much earlier, or it is always theoreticlly possible to suppress R0 below one. And no matter what this means we have the case of reducing numbers !/2 1/4 1/8. Eazy. right? 
+
+How to get the exact numbers from data is another question. But as it should be clear now that if we have an R0 of 4 then we need to put the number of infections down by 4 to get an R0 of 1. now 4 is quite extreme as it seems. And even then it shouldnt be impossible. Look at China. What they did. And also look at Italy data. This doesnt either look like were into crazy numbers yet. But maybe you shouldnt buy a dog to be able to move around.
+
 Example figure (succesfull fitting + extrapolation): Version 1503
 
 ![Bergamo fitting results_1503](SIR_fitresults/15032020/Italy_SIR_fit_000_Bergamo.png)
