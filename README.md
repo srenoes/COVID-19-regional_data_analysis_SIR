@@ -34,6 +34,9 @@ Fingers crossed. Although this looks like there could be a little relief in the 
 As you can see only 1%-2% of the total population would  be infected, and the infections probably went down due to strict measures. Anyhow if this is not handled carefully the epedemia even then could restart on the remaining 98%!! Maybe thats why they said 40-60% will get it. But I think better you fear too much than too little. Be careful wherever you are.
 ![Bergamo fitting results_1903](SIR_fitresults/19032020/Italy_SIR_fit_000_Bergamo.png)
 
+New data 20.03.2020
+![Bergamo fitting results_2003](SIR_fitresults/20032020/Italy_SIR_fit_000_Bergamo.png)
+
 
 
 And some figure I created with geopandas showing the wave that went down italy from north to south:
