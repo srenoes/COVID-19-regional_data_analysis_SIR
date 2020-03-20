@@ -3,7 +3,7 @@
 #Intro
 
 This is a model page that tries to find out questions about the near future states of COVID 19 on the basis of regional data.
-Simulation data is used to answer that question. Even though the mathematical model looks very complicated the stuff behind it is very easy to understand. This SIR model is about people that can be infected(S) people that are infected (I) and those that are removed (those who got it and recovered (lets hope) or are dead).
+Simulation data is used to answer that question. Even though the mathematical model looks very complicated the stuff behind it is very easy to understand. This SIR model is about people that can still get infected(S), people that are infected (I), and those that are removed(R), or those who got it and recovered (lets hope) or are dead.
 
 Key aspect in this model and in other related models is a number called basic reproductive number or R0. And that number represents the number of people that are infected on average by one infected person. Math with this number is fairly easy to understand. An R0 of 2 will give 2,*2=4,*2=8,*2=16,*2=32 infected persons each time it is transmitted. And and R0 of 1 will give 1,=1*1,=1*1,=1*1,=1*1. And R0 of 1 will thus not increase the number of infected, and for R0<1 it goes down e.g. R0=1/2 --> 1/2,!/4,!/8,1/16  aso. The trick that now everybody is hoping for is to get this number as low as possible, if at all possible below 1.
 
