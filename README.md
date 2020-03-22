@@ -32,10 +32,12 @@ This now unfortunately looks completely different with data from 1603T
 And now it starts to look different again. However, now only last 7 days' data are fitted (19.03.2020). Lets hope this is true.
 Fingers crossed. Although this looks like there could be a little relief in the not too far future, there is no time to rest.
 As you can see only 1%-2% of the total population would  be infected, and the infections probably went down due to strict measures. Anyhow if this is not handled carefully the epedemia even then could restart on the remaining 98%!! Maybe thats why they said 40-60% will get it. But I think better you fear too much than too little. Be careful wherever you are.
+
+Data from 19.03.2020
 ![Bergamo fitting results_1903](SIR_fitresults/19032020/Italy_SIR_fit_000_Bergamo.png)
 
-New data 21.03.2020
-![Bergamo fitting results_2103](SIR_fitresults/21032020/Italy_SIR_fit_000_Bergamo.png)
+New data 22.03.2020
+![Bergamo fitting results_2103](SIR_fitresults/22032020/Italy_SIR_fit_000_Bergamo.png)
 
 
 
